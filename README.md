@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 open-source contributor and learning data science focused on solving real world problems
 
 
